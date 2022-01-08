@@ -1,1 +1,4 @@
 Dev2 is parallely working on this file to check the conflict issues
+Dev1 is editing x.txt file
+Also will add some new files
+will push this first
