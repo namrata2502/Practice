@@ -1,0 +1,2 @@
+Dev1 is adding some line,, Let's check for merge conflict
+Dev1 is pushing first
